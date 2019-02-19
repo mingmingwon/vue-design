@@ -1060,7 +1060,6 @@ Vue.options = {
 	  Transition,
 	  TransitionGroup
 	},
-	directives: Object.create(null),
 	directives:{
 	  model,
 	  show
